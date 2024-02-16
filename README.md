@@ -1,6 +1,5 @@
 
-## Hello! ![image](https://github.com/Judoloko/Judoloko/assets/117056796/5be0c393-12e1-403e-8de4-c706fc4b57da)
- I'm Daniel Junior 
+## Hi I'm Daniel Junior 
 ### It's my pleasure to share my GitHub profile with you !!
 
 <div style="display: inline_block"><br/>
